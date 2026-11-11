@@ -1,1 +1,2 @@
-# PRDA-01-Profit-Analysis-Project
+# IMDB-Movies-Project
+IMDB Movies Data Analysis using SQL
